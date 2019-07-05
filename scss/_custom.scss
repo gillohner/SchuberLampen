@@ -1,0 +1,12 @@
+//Back to top Button styling
+.back-to-top {
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    padding:1em;
+   }
+
+//Bilder nicht strecken
+   img {
+    object-fit: cover;
+}
